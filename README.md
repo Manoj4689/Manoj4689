@@ -2,8 +2,8 @@
 
 <!--
 **Manoj4689/Manoj4689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m interested in Software Development and Quantitative Research
 - 📫 How to reach me: [manojkumar.ede@gmail.com](manojkumar.ede@gmail.com), [LinkedIn](https://www.linkedin.com/in/e-manoj-kumar-603003193/)
--->
+
