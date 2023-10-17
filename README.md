@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m interested in Software Development and Quantitative Research
-- 📫 How to reach me: [manojkumar.ede@gmail.com](manojkumar.ede@gmail.com), [LinkedIn](https://www.linkedin.com/in/e-manoj-kumar-603003193/)
+- 📫 How to reach me: [manojkumar.ede@gmail.com](mailto:manojkumar.ede@gmail.com), [LinkedIn](https://www.linkedin.com/in/e-manoj-kumar-603003193/)
 
  
  ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=Manoj4689)
