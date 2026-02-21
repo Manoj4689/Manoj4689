@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Distributed Systems | GenAI & DataScience</h3>
 
 <p align="center">
-  Member of Technical Staff II @ Adobe • IIT Roorkee (Mathematics & Computing)
+  Member of Technical Staff II @Adobe • IIT Roorkee (Mathematics & Computing)
 </p>
 
 ---
