@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eede Manoj Kumar</h1>
-<h3 align="center">Software Engineer | Distributed Systems | AI & GenAI Systems</h3>
+<h1 align="center">Hi 👋, I'm Manoj Kumar Eede</h1>
+<h3 align="center">Software Engineer | Distributed Systems | GenAI & DataScience</h3>
 
 <p align="center">
-  Member of Technical Staff @ Adobe • IIT Roorkee (Mathematics & Computing)
+  Member of Technical Staff II @ Adobe • IIT Roorkee (Mathematics & Computing)
 </p>
 
 ---
 
-### Quick stats
+### Github stats
 
 <p align="center">
   <!-- Followers badge -->
