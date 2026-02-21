@@ -29,4 +29,4 @@
 ### About
 - 🔭 Building distributed backend systems and agentic AI applications (RAG, LLMs)
 - ⚙️ Languages: Java, Python, C++, JavaScript, Swift
-- 📫 manojkumar.ede@gmail.com • https://www.linkedin.com/in/e-manoj-kumar-603003193/
+- 📫 manojkumareede@gmail.com • https://www.linkedin.com/in/manojkumareede/
