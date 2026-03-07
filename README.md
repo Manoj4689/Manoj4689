@@ -5,7 +5,7 @@
 
 ---
 
-## About Me
+## About Me:
 
     Role: Software Engineer (Distributed Systems & GenAI)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumareede/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumareede@gmail.com)
 
