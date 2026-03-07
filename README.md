@@ -1,8 +1,7 @@
-# Hi 👋, I'm Manoj Kumar Eede  
-### Software Engineer | Distributed Systems | GenAI & Data Science  
+<h1 align="center">Hi 👋, I'm Manoj Kumar Eede</h1>
+<h3 align="center">Software Engineer | Distributed Systems | GenAI & DataScience</h3>
 
-**Member of Technical Staff II @ Adobe**  
-**IIT Roorkee — Mathematics & Computing**
+<p align="center"> Member of Technical Staff II @Adobe • IIT Roorkee (Mathematics & Computing) </p>
 
 ---
 
