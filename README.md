@@ -6,14 +6,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Building+Distributed+Backend+Systems;Designing+Agentic+AI+Applications;Working+with+RAG+%7C+LLMs+%7C+Data+Systems)
-  </a>
-</div>
-
----
-
 ## 🚀 About Me
 
     Role: Software Engineer (Distributed Systems & GenAI)
@@ -45,9 +37,10 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    ![Thanks Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=28&pause=1000&color=7DF9FF&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Let's+Build+Something+Impactful+🚀)
-  </a>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=7DF9FF&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+   
 </div>
 
 ---
